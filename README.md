@@ -7,6 +7,9 @@ Bookmarks for learning Linux.
 Configuring A High Availability Apache Cluster With Pacemaker On CentOS 7
 (https://www.unixmen.com/configuring-high-availability-apache-cluster-pacemaker-centos-7/)
 
+How To Set Up an Apache Active-Passive Cluster Using Pacemaker on CentOS 7
+(https://www.digitalocean.com/community/tutorials/how-to-set-up-an-apache-active-passive-cluster-using-pacemaker-on-centos-7)
+
 - [The Linux Documentation Project](http://www.tldp.org/)  
 
     - [How-to](http://www.tldp.org/HOWTO/HOWTO-INDEX/categories.html)  
