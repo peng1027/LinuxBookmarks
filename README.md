@@ -17,6 +17,9 @@ Configure Active/Passive pacemaker cluster on RHEL7/CentOS7
 Linux下vsftpd多实例HA集群
 (http://www.learnfuture.com/article/1612)
 
+实现基于Haproxy_NAT+Keepalived负载均衡高可用架构
+(http://www.linuxidc.com/Linux/2017-11/149012.htm)
+
 ###########################################################################
 
 - [The Linux Documentation Project](http://www.tldp.org/)  
