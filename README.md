@@ -4,6 +4,7 @@ Bookmarks for learning Linux.
 ## Web sites
 
 2017.12.19
+
 Configuring A High Availability Apache Cluster With Pacemaker On CentOS 7
 (https://www.unixmen.com/configuring-high-availability-apache-cluster-pacemaker-centos-7/)
 
