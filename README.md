@@ -20,6 +20,9 @@ Linux下vsftpd多实例HA集群
 实现基于Haproxy_NAT+Keepalived负载均衡高可用架构
 (http://www.linuxidc.com/Linux/2017-11/149012.htm)
 
+生产环境下ftp的迁移并构建corosync+pacemaker的高可用
+(http://blog.51cto.com/xiaoyuer3/1405180)
+
 ###########################################################################
 
 - [The Linux Documentation Project](http://www.tldp.org/)  
