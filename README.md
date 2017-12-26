@@ -26,6 +26,11 @@ Linux下vsftpd多实例HA集群
 安裝 CentOS 7 後必做的七件事
 (http://blog.51cto.com/itpanda/1722769)
 
+CentOS 7下搭建高可用集群
+http://mp.weixin.qq.com/s/zoJuFh0SyLBq9feAtR--2g
+
+
+
 ###########################################################################
 
 - [The Linux Documentation Project](http://www.tldp.org/)  
