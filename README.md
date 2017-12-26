@@ -23,6 +23,9 @@ Linux下vsftpd多实例HA集群
 生产环境下ftp的迁移并构建corosync+pacemaker的高可用
 (http://blog.51cto.com/xiaoyuer3/1405180)
 
+安裝 CentOS 7 後必做的七件事
+(http://blog.51cto.com/itpanda/1722769)
+
 ###########################################################################
 
 - [The Linux Documentation Project](http://www.tldp.org/)  
